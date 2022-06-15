@@ -19,6 +19,11 @@ Projenin ücretli satılması veya başkası tarafından, başka bir ad ile dağ
 
 - Projenin ücretli satılması veya başkası tarafından, başka bir ad ile dağıtılması kesinlikle yasaktır. Proje lisanslı bir projedir, bu tarz işlemlerde bulunanlar olur ise lisans aracılığı ile gerekli yasal yollara başvurulacaktır.
 
+# Kurulum Anlatım Kısaca
+
+![image](https://user-images.githubusercontent.com/92666466/173943429-abac2204-0ab7-41c4-80f3-0c45782b51ef.png)
+![image](https://user-images.githubusercontent.com/92666466/173943546-df4bf147-42de-4009-b73b-1fe06972f6d1.png)
+
 # 📷 Görseller
 
 https://user-images.githubusercontent.com/92666466/164950884-cab22076-9fec-467f-8ab3-547d08055989.mp4
