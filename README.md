@@ -21,6 +21,12 @@ Projenin ücretli satılması veya başkası tarafından, başka bir ad ile dağ
 
 # Kurulum Anlatım Kısaca
 
+    "OtherGuard": "Token Girme Kısmı",
+    "OtherGuardBotClientID": "893210287233204295",
+
+OtherGuard Yerine Tokenini girdiğiniz botu aşağıdaki şekilde tikleri açıp o link ile sunucunuza ekleyiniz eğer sunucunuzda varsa botu atıp tekrar çekiniz.
+OtherGuard Tokenini girdiğiniz botun aşağıdaki ssteki gibi id sini kopyalayınız OtherGuardBotClientID yerini doldurunuz.
+
 ![image](https://user-images.githubusercontent.com/92666466/173943429-abac2204-0ab7-41c4-80f3-0c45782b51ef.png)
 ![image](https://user-images.githubusercontent.com/92666466/173943546-df4bf147-42de-4009-b73b-1fe06972f6d1.png)
 
