@@ -2,8 +2,6 @@
 
 Öncelikle Parzival kardeşim, Snow ve Acerhizm' e test ederkenki yardımları için teşekkür ederim.
 
-[Yeni Bot Help Sunucumuza Katılmak İçin Tıkla!](https://discord.gg/t42x2GHKrS) yeni bot yardım sunucumuz ekibimizden destek almak için gelebilirsiniz teşekkürler <3
-
 Projenin ücretli satılması veya başkası tarafından, başka bir ad ile dağıtılması kesinlikle yasaktır. Proje lisanslı bir projedir, bu tarz işlemlerde bulunanlar olur ise lisans aracılığı ile gerekli yasal yollara başvurulacaktır.
 
 # 🪐 Özellikler 
